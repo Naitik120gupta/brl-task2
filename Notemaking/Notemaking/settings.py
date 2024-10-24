@@ -101,8 +101,8 @@ DATABASES = {
 SOCIALACCOUNT_PROVIDERS = {
     'google': {
         'APP':{
-            'client_id':'1005936215030-s66sl8r4nl1atock8dehu7i9a5pchr1q.apps.googleusercontent.com',
-            'secret':'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',
+            'client_id':'',
+            'secret':'',
             'key':''
         }
     }
